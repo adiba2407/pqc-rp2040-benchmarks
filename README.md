@@ -21,6 +21,9 @@ pqc-rp2040-benchmarks/
 │
 └── README.md
 ```
+## Authors
+Adiba Hussain (adiba@usca.edu)
+Dr. Eslam Hasan (Eslam.Hasan@usca.edu)
 
 ## Hardware Platform
 
