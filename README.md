@@ -86,9 +86,6 @@ The benchmark results include:
 - Standard deviation
 - Coefficient of variation (CV)
 
-Authors:
-Adiba Hussain, Eslam Hasan
-University of South Carolina Aiken.
 
 These metrics enable performance comparison of NIST post-quantum cryptographic algorithms on resource-constrained embedded platforms.
 
